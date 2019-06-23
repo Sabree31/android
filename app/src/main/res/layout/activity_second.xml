@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#7A59C9"
+    tools:context=".Second">
+
+    <ListView
+        android:id="@+id/ListViewId"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#341C5F"
+        android:dividerHeight="4sp"
+        android:listSelector="#673AB7"
+
+        >
+
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#596CC9"
+    tools:context=".Three_One">
+
+    <ListView
+        android:id="@+id/ListView2Id"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#1C2B5F"
+        android:dividerHeight="4sp"
+        android:listSelector="#3A55B7">
+
+    </ListView>
+
+</LinearLayout>

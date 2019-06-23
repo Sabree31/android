@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application kjgfsdgfde</string>
+    <string name="name">Welcome To Comilla University</string>
+    <string-array name="item_names">
+
+        <item>Home</item>
+        <item>Faculties and Departments</item>
+        <item>Admission</item>
+        <item>Notice Board</item>
+        <item>Administration</item>
+        <item>Blogs and Journals</item>
+
+    </string-array>
+
+    <string-array name="Administration_names">
+
+        <item>Chancellor</item>
+        <item>Vice Chancellor</item>
+        <item>Treasurer</item>
+        <item>Registrar</item>
+
+    </string-array>
+</resources>
