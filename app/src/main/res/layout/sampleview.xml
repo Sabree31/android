@@ -8,9 +8,9 @@
         android:layout_width="match_parent"
         android:layout_height="100sp"
         android:text="Text"
-        android:textSize="45sp"
+        android:textSize="30sp"
         android:textStyle="bold"
-        android:textColor="#AA0D33A2"
+        android:textColor="#AA2A1852"
         android:gravity="center"
         />
 

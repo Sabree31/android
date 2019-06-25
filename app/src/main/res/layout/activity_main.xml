@@ -23,8 +23,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:paddingTop="80sp"
-        android:paddingBottom="50sp"
+        android:paddingTop="10sp"
+        android:paddingBottom="10sp"
         app:srcCompat="@drawable/cou" />
 
     <Button
